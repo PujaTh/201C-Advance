@@ -21,13 +21,4 @@ Functional Requirements: Your backend application should support the following f
 Some Categories and Subcategories can be (you can add your own): 
  
 Category           Sub Category 
-Bills              Electricity 
-                    Internet 
-                    Phone 
-Vehicle             Fuel 
-                    Servicing 
-                    Accessories 
-Entertainment       Movies 
-                    Dining 
-Shopping            Clothes 
-                    Food 
+Bills: Electricity,Internet ,Phone ;  Vehicle  :  Fuel ,Servicing ,Accessories ;   Entertainment : Movies ,Dining .
